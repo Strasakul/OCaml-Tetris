@@ -8,7 +8,7 @@ The game state is completely immutable—every frame, collision, and line-clear 
 
 * **`A`** - Move Left
 * **`D`** - Move Right
-* **`S`** - Soft Drop (Speed up!)
+* **`S`** - Soft Drop
 * **`Q`** - Rotate Left
 * **`E`** - Rotate Right
 * **Mouse Click** - Click the "Restart" button on the Game Over screen
